@@ -1,6 +1,10 @@
 [
-    {
-        "title": "Minha Musica Favorita",
-        "url": "https://vitor1010.github.io/minha-playlist-tfm/minha_musica_favorita.mp3"
-    }
+  {
+    "title": "Música Kaiju",
+    "url": "https://brachixbr.github.io/minha-playlist-tfm/musica_kaiju.mp3"
+  },
+  {
+    "title": "Música Evento TFM",
+    "url": "https://audio.atelier801.com/lua/music_event/final_track.mp3"
+  }
 ]
